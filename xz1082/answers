@@ -1,0 +1,6 @@
+1. /usr/lib/python2.7/posixpath.py
+2. num = int(os.popen('ls /etc |wc -w').read())
+3. 15.231546211727817
+4. x^x
+5. 24
+
